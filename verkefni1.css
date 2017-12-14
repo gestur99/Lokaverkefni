@@ -1,0 +1,31 @@
+body {
+	font-family: "Arial";
+	width: 1000px;
+	border: blue 2px solid;
+	margin: auto;
+}
+
+h1 {
+	color: red;
+	text-align: center;
+}
+
+.elvis {
+	color: blue;
+}
+
+h2 {
+	color: darkblue;
+}
+
+strong {
+	color: blue;
+}
+
+em {
+	color: red;
+}
+
+ul {
+	color: green;
+}
